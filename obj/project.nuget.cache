@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rIpyC6R8W3hqUXR8/BUzWQhgRoUiu8BetYDr+KtxcTGOrIVkOGfaPmITpoC5bPypJpZuJkbhxnBaR58zTtEKqQ==",
+  "dgSpecHash": "c1RGlCOBoR0=",
   "success": true,
-  "projectFilePath": "/home/kitsai/coding/cjr/Vendas_CJR/Vendas_CJR_Back/Vendas_CJR_Back.csproj",
+  "projectFilePath": "C:\\Users\\gabih\\Documents\\coding\\cjrvendas\\Vendas_CJR_Backend\\Vendas_CJR_Back.csproj",
   "expectedPackageFiles": [
-    "/home/kitsai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "/home/kitsai/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "/home/kitsai/.nuget/packages/npgsql/8.0.4/npgsql.8.0.4.nupkg.sha512"
+    "C:\\Users\\gabih\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gabih\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gabih\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }

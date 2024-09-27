@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendas_CJR_Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3edb469334a6ce5a10eb54c3bf0bd0795237ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendas_CJR_Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendas_CJR_Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
